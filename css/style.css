@@ -310,7 +310,7 @@ h1, h2, h3, h4, h5, h6 {
 /*------------------------*/
 /*------------SEC-2------------*/
 .sec2 {
-  background: url("/img/Bg.png") center no-repeat;
+  background: url("img/Bg.png") center no-repeat;
   background-size: cover;
   margin-top: 200px;
 }
@@ -372,7 +372,7 @@ h1, h2, h3, h4, h5, h6 {
 /*------------------------*/
 /*------------SEC-4------------*/
 .sec4 {
-  background: url("/img/Bg.png") center no-repeat;
+  background: url("img/Bg.png") center no-repeat;
   background-size: cover;
 }
 .sec4 .sec4__phone {
@@ -538,7 +538,7 @@ h1, h2, h3, h4, h5, h6 {
 /*-----------------------------*/
 /*------------SEC-6------------*/
 .sec6 {
-  background: url("/img/Bg.png") center no-repeat;
+  background: url("img/Bg.png") center no-repeat;
   background-size: cover;
 }
 .sec6 .sec6__phone {
@@ -602,7 +602,7 @@ h1, h2, h3, h4, h5, h6 {
 /*------------------------*/
 /*------------SEC-8------------*/
 .sec8 {
-  background: url("/img/Bg.png") center no-repeat;
+  background: url("img/Bg.png") center no-repeat;
   background-size: cover;
 }
 .sec8 .sec8__title {
